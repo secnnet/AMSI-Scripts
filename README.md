@@ -1,4 +1,4 @@
-# AMSI Script Collection
+# AMSI Scripts
 
 This repository contains a collection of PowerShell scripts related to the Antimalware Scan Interface (AMSI). The scripts provide functionality for interacting with AMSI, scanning content, and retrieving AMSI event information.
 
